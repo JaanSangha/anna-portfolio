@@ -26,18 +26,44 @@
   }
 
   .navbar {
+    display: flex;
     background-color: rgb(25, 24, 25);
   }
 
   .navbar .nav .nav-link {
     color: white;
+    width: 120px;
+    text-align: center;
     font-size: 1.3rem;
     font-family: 'Caveat', cursive;
     font-family: 'Edu TAS Beginner', cursive;
     font-family: 'PT Sans', sans-serif;
     margin-right: 10px;
     margin-left: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    line-height: 80%;
 }
-  
+
+.navbar li{
+  margin-top: 5px;
+}
+
+.about {
+  background-color: black;
+  color: rgb(220, 226, 232);
+  font-family: 'Caveat', cursive;
+  font-family: 'Edu TAS Beginner', cursive;
+  font-family: 'PT Sans', sans-serif;
+}
+
+footer {
+  background-color: black;
+  color: aliceblue;
+  font-family: 'Caveat', cursive;
+  font-family: 'Edu TAS Beginner', cursive;
+  font-family: 'PT Sans', sans-serif;
+}
+
 
   
