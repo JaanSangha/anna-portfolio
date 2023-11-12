@@ -61,11 +61,9 @@
 }
 
 footer {
-  background-color: black;
+  background-color: rgb(127, 117, 117);
   color: aliceblue;
-  font-family: 'Caveat', cursive;
-  font-family: 'Edu TAS Beginner', cursive;
-  font-family: 'PT Sans', sans-serif;
+  padding: 0px;
 }
 
 .contact{
