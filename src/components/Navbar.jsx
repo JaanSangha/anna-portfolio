@@ -6,7 +6,7 @@ function Navbar() {
                     <ul class="nav nav-pills justify-content-center col-11">
                         <li class="nav-item border-end border-start"><a href="#top" class="nav-link">About</a></li>
                         <li class="nav-item border-end"><a href="#top" class="nav-link">Upcoming</a></li>
-                        <li class="nav-item border-end"><a href="#top" class="nav-link">Set List</a></li>
+                        <li class="nav-item border-start border-end"><a href="#top" class="nav-link">Set List</a></li>
                         <li class="nav-item border-start border-end"><a href="#top" class="nav-link">Contact</a></li>
                     </ul>
         </div>

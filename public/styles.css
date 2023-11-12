@@ -2,6 +2,9 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box;
+    font-family: 'Caveat', cursive;
+    font-family: 'Edu TAS Beginner', cursive;
+    font-family: 'PT Sans', sans-serif;
   }
 
   header{
@@ -65,5 +68,37 @@ footer {
   font-family: 'PT Sans', sans-serif;
 }
 
+.contact{
+  background-image: url('https://source.unsplash.com/eXUTOd9ZdsQ');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
 
-  
+.contactBG{
+  background-color: black;
+  background-size: cover;
+  font-family: 'Caveat', cursive;
+  font-family: 'Edu TAS Beginner', cursive;
+  font-family: 'PT Sans', sans-serif;
+  padding-bottom: 50px;
+}
+
+.contactCard{
+  background-color: rgb(42, 41, 41);
+  color: aliceblue;
+}
+
+.contactCard p{
+  color: rgb(206, 212, 218);
+}
+
+.videos{
+  background-color: black;
+  padding-bottom: 100px;
+}
+
+.videosBG{
+  background-color: rgb(49, 47, 47);
+  color: aliceblue;
+}
