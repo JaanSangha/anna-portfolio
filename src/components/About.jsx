@@ -10,8 +10,8 @@ function About() {
         <img src={aboutPic} class="d-block mx-lg-auto img-fluid rounded" alt="Bootstrap Themes" width="700" height="500" loading="lazy" />
       </div>
       <div class="col-lg-6">
-        <h1 class="display-5 fw-bold lh-1 mb-3">About Stevie Nicks</h1><hr/>
-        <p class="lead">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Etiam sit amet nisl purus in mollis nunc. Rhoncus aenean vel elit scelerisque mauris. Adipiscing diam donec adipiscing tristique risus. Vel turpis nunc eget lorem dolor sed viverra ipsum nunc. Rutrum tellus pellentesque eu tincidunt tortor. Fames ac turpis egestas sed tempus urna et pharetra. Libero volutpat sed cras ornare arcu dui vivamus arcu. Fringilla est ullamcorper eget nulla facilisi etiam dignissim diam. Leo urna molestie at elementum eu facilisis sed odi.</p>
+        <h1 class="display-5 fw-bold lh-1 mb-3">About Rumours of Stevie</h1><hr/>
+        <p class="lead">When Anna takes the stage she captures the true essence of Stevie Nicks, the iconic singer with her band covering songs from Fleetwood Mac and Stevie's solo career. She creates a mystical magical atmosphere and captures the heart and soul of Stevie in every performance, amazing her audiences everywhere with the heart and authenticity of the famous singer.</p>
       </div>
     </div>
   </div>
